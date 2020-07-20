@@ -6,3 +6,13 @@
 
 **Link(s) to work**
 1. [KidCal repo](https://github.com/antonysanders1/kidcal)
+
+
+### Day 1: July 20, 2020 - Monday
+
+**Today's Progress**: I properly aligned the history and result containers for later use... I created the buttons for the calculator and styled them in css.
+
+**Thoughts** I'm thinking that I want to add deeper functionality with this kid calculator (i.e. interactive sound, ability to select gender and age prior to use, different modes like animals shapes and colors...). Could be a fun extention to this simple app!
+
+**Link(s) to work**
+1. [KidCal repo](https://github.com/antonysanders1/kidcal)
