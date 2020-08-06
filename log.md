@@ -18,7 +18,7 @@
 1. [KidCal repo](https://github.com/antonysanders1/kidcal)
 
 
-### Day 4: Aug 5, 2020 - Thursday
+### Day 3: July 23, 2020 - Thursday
 
 **Today's Progress**: I completed the css for my calculator and added logic to the js file. The calculator can do simple arithmatic!  
 SIDE NOTE: I worked on my private project yesterday using ruby on rails... can't really get into the details yet cause its proprietary -- but hopefully soon!
@@ -29,7 +29,7 @@ SIDE NOTE: I worked on my private project yesterday using ruby on rails... can't
 1. [KidCal repo](https://github.com/antonysanders1/kidcal)
 
 
-### Day 3: July 23, 2020 - Thursday
+### Day 4: Aug 5, 2020 - Wednesday
 
 **Today's Progress**: Using Ruby on Rails: I created a 'Header partial' for the static pages of my site, then implemented working links to those pages. I replaced the div containers with semantic containers for best practices.
 
@@ -37,3 +37,12 @@ SIDE NOTE: I worked on my private project yesterday using ruby on rails... can't
 
 **Link(s) to work**
 I can't share the repo to this project as it is private.. but [HERE](https://learn.co/lessons/html5-semantic-containers-code-along) is a link to the resource about semantic containers I followed.
+
+### Day 5: Aug 6, 2020 - Thursday
+
+**Today's Progress**: Using Ruby on Rails: I updated the database for Oauth authentication. I was able to create the authentication routes for my Customer(users) successfully. Updates were made to the 'Header partial' to display changes based on authentication.
+
+**Thoughts** Feeling really proud of how much I actually got accomplished today.. Much more work ahead...
+
+**Link(s) to work**
+I can't share the repo yet because this project is private and proprietary..
