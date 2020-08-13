@@ -46,3 +46,13 @@ I can't share the repo to this project as it is private.. but [HERE](https://lea
 
 **Link(s) to work**
 I can't share the repo yet because this project is private and proprietary..
+
+### Day 6: Aug 12, 2020 - Thursday
+
+**Today's Progress**: Using HTML, CSS & Js: I created a really cool button animation that pulsates until clicked. When clicked it quickly shrinks and expands out!
+
+**Thoughts** Coding in these three laguages is getting easier. I learned a bit more about css animations. Used my knowledge to invoke the animation with a js event listener.
+
+**Link(s) to work**
+1. [Pulsating Button w/Expand](https://github.com/antonysanders1/button-designs)
+
